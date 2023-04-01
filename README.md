@@ -1,5 +1,11 @@
 # squirrel-lab
 
+## Solved on 2023-04-01T08:57+00:00
+
+Archiving to prevent further edits to this repository.
+
+## Introduction
+
 Hi! In this repo is a slightly insecure Docker container, and an automated CICD Workflow configured to:
 * Scan for vulns
 * Validate them against the SafeStack platform
